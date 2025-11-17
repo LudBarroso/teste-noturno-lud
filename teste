@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>Teste JavaScript Lud</title>
+  </head>
+  <body style="background:#000;color:#fff;padding:40px;font-size:22px;">
+    <h1>Deu certo, Lud! 🎉</h1>
+    <p>Se o botão abaixo mostrar um alerta, o JavaScript está funcionando.</p>
+
+    <button onclick="alert('Funcionou, Lud! 😍')"
+            style="padding:12px 20px;font-size:18px;border-radius:10px;border:none;background:#2563eb;color:#fff;cursor:pointer;">
+      Clique aqui para testar
+    </button>
+  </body>
+</html>
